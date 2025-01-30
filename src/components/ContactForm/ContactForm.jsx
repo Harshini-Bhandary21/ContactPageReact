@@ -54,7 +54,7 @@ function ContactForm(){
                 
             </div>
             <div className={`${styles.container_image}`}>
-                <img src="public/images/Service 24_7-pana 1.svg" alt="svg"/>
+                <img src="./ContactPageReact/Service 24_7-pana 1.svg" alt="svg"/>
             </div>
 
         </section>
